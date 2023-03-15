@@ -5,7 +5,9 @@ Hamburger Java Bootcamp 2023 Protokolle
 Reihenfolge:
 
 Ruben +Teresa 
+
 Astrid + Max 
+
 Steffen + Xin 
 Robin + Hozan 
 Lukas + Levin 
