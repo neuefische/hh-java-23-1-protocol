@@ -8,20 +8,21 @@ Ruben +Teresa
 
 Astrid + Max 
 
-Steffen + Xin 
+Steffen + Xin >>> Montag 20.03.2023
 
-Robin + Hozan 
+Robin + Hozan  >>> Dienstag 21.03.2023
 
-Lukas + Levin 
+Lukas + Levin >>> Mittwoch 22.02.2023
 
-Katharina + Lisa 
+Katharina + Lisa >>> Donnerstag 23.02.2023
 
-Julian + Abdul 
+Julian + Abdul >>> Montag 27.03.2023
 
-Hasan + Joon 
+Hasan + Joon >>> Dienstag 28.03.2023
 
-Bolor
+Bolor + Ruben >>> Mittwoch 29.03.2023
 
+Teresa + Astrid >>> Donnerstag 30.03.2023
 
 
 
