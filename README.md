@@ -4,25 +4,28 @@ Hamburger Java Bootcamp 2023 Protokolle
 
 Reihenfolge:
 
-Ruben +Teresa 
 
-Astrid + Max 
 
-Steffen + Xin >>> Montag 20.03.2023
+Max + Steffen am 4.4.23
 
-Robin + Hozan  >>> Dienstag 21.03.2023
+Xin + Robin 
+ 
+Hozan  + Lukas  
 
-Lukas + Levin >>> Mittwoch 22.02.2023
+Levin + Katharina 
 
-Katharina + Lisa >>> Donnerstag 23.02.2023
+Lisa + Julian
 
-Julian + Abdul >>> Montag 27.03.2023
+Abdul+ Hasan
 
-Hasan + Joon >>> Dienstag 28.03.2023
+Joon + Bolor
 
-Bolor + Ruben >>> Mittwoch 29.03.2023
+Ruben + Teresa 
 
-Teresa + Astrid >>> Donnerstag 30.03.2023
+
+Astrid
+
+
 
 
 
