@@ -5,31 +5,17 @@ Hamburger Java Bootcamp 2023 Protokolle
 Reihenfolge:
 
 
-
-Max + Steffen am 4.4.23
-
-Xin + Robin 
- 
-Hozan  + Lukas  11.04.23
-
-Levin + Katharina  12.04.23
-
-Lisa + Julian. 13.04.23
-
-Abdul+ Hasan  14.04.23
-
-Joon + Bolor  17.04.23
-
-Ruben + Teresa 18.04.23
-
-----------
-
-Astrid + Max
-.
-.
-.
-.
-
+|  | Datum
+| ------------- | ------------- 
+| Max + Steffen | 
+| Xin + Robin | 
+| Hozan  + Lukas | 
+| Levin + Katharina | **Mittwoch**, 12.04. 
+| Lisa + Julian | **Donnerstag**, 13.04 
+| Abdul + Hasan | **Montag**, 17.04. 
+| Joon + Bolor | **Dienstag**, 18.04.
+| Ruben + Teresa | **Mittwoch**, 19.04.
+| Astrid + | **Donnerstag**, 20.04.
 
 
 [Die Protokolle](https://github.com/neuefische/hh-java-23-1-protocol/wiki) findet ihr oben im Reiter "Wiki".
