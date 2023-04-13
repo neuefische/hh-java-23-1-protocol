@@ -11,8 +11,8 @@ Reihenfolge:
 | Xin + Robin | 
 | Hozan  + Lukas | 
 | Levin + Katharina | **Mittwoch**, 12.04. 
-| Lisa + Julian | **Donnerstag**, 13.04 
-| Abdul + Hasan | **Montag**, 17.04. 
+| Lisa + Hasan | **Donnerstag**, 13.04 
+| Julian + Abdul | **Montag**, 17.04. 
 | Joon + Bolor | **Dienstag**, 18.04.
 | Ruben + Teresa | **Mittwoch**, 19.04.
 | Astrid + | **Donnerstag**, 20.04.
