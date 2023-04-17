@@ -14,7 +14,7 @@ Reihenfolge:
 | Lisa + Hasan | **Donnerstag**, 13.04 
 | Julian + Abdul | **Montag**, 17.04. 
 | Joon + Bolor | **Dienstag**, 18.04.
-| Ruben + Teresa | **Mittwoch**, 19.04.
+| ??? + Teresa | **Mittwoch**, 19.04.
 | Astrid + Max| **Donnerstag**, 20.04.
 
 
