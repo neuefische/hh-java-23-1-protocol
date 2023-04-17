@@ -15,7 +15,7 @@ Reihenfolge:
 | Julian + Abdul | **Montag**, 17.04. 
 | Joon + Bolor | **Dienstag**, 18.04.
 | Ruben + Teresa | **Mittwoch**, 19.04.
-| Astrid + | **Donnerstag**, 20.04.
+| Astrid + Max| **Donnerstag**, 20.04.
 
 
 [Die Protokolle](https://github.com/neuefische/hh-java-23-1-protocol/wiki) findet ihr oben im Reiter "Wiki".
