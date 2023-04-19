@@ -7,14 +7,14 @@ Reihenfolge:
 
 |  | Datum
 | ------------- | ------------- 
-| Max + Steffen | 
+| Max + Ruben | 
 | Xin + Robin | 
 | Hozan  + Lukas | 
 | Levin + Katharina | **Mittwoch**, 12.04. 
 | Lisa + Hasan | **Donnerstag**, 13.04 
 | Julian + Abdul | **Montag**, 17.04. 
 | Joon + Bolor | **Dienstag**, 18.04.
-| ??? + Teresa | **Mittwoch**, 19.04.
+| Teresa + Steffen | **Mittwoch**, 19.04.
 | Astrid + Max| **Donnerstag**, 20.04.
 
 
